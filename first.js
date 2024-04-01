@@ -1,0 +1,11 @@
+$("document").ready(function(){
+    $("#btn1").click(function(){
+        $("#im").hide(3000);
+    })
+    $("#btn2").click(function(){
+        $("#im").show(3000);
+    })
+    $("#btn3").click(function(){
+        $("#im").toggle(3000);
+    })
+})
