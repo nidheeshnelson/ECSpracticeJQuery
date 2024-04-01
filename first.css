@@ -1,3 +1,8 @@
 body{
     background-color: aquamarine;
 }
+img{
+    border-image-repeat:unset;
+    width: 500px;
+    height: fit-content;
+}
