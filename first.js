@@ -1,0 +1,11 @@
+$("document").ready(function(){
+$("#1").click(function(){
+    $("#i").fadein(2000);
+})
+$("#2").click(function(){
+    $("#i").fadeout(2000);
+})
+$("#3").click(function(){
+    $("#i").fadetoggle(2000);
+})
+});
