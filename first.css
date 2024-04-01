@@ -1,3 +1,34 @@
 body{
     background-color: aquamarine;
 }
+#div1{
+width:500px;
+height:auto;
+background-color: blue;
+border: dotted black;
+padding: 10px 10px;
+}
+#div2{
+margin-top: 10px;
+width:500px;
+height:auto;
+background-color:brown;
+border: dotted black;
+padding: 10px 10px;
+}
+#div3{
+margin-top: 10px;
+width: 200px;;
+height:auto;
+background-color:lightseagreen;
+border: dotted black;
+padding: 10px 10px;
+}
+#div4{
+margin-top: 10px;
+width:200px;
+height:auto;
+background-color:lightslategray;
+border: dotted black;
+padding: 10px 10px;
+}
